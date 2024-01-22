@@ -74,7 +74,7 @@
                         <path>
                             <groupId>org.projectlombok</groupId>
                             <artifactId>lombok</artifactId>
-                            <version>1.18.12</version>
+                            <version>1.18.26</version>
                         </path>
                     </annotationProcessorPaths>
                     <!-- due to problem in maven-compiler-plugin, for verbose mode add showWarnings -->
